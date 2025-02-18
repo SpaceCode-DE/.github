@@ -15,7 +15,7 @@ We are a passionate digital marketing agency, helping businesses grow with tailo
 ✅ Results-driven approach for maximum impact
 
 ## 📬 Get in Touch
-📧 Email: contact@space-code.agency  
+📧 Email: kontakt@space-code.de  
 🌐 Website: [space-code.agency](https://space-code.de)  
 <!-- 💼 LinkedIn: [Space-Code Sommerfeld und Thiel GbR](https://linkedin.com/company/space-code-agency) -->
 
