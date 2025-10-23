@@ -1,4 +1,4 @@
-# 👋 Welcome to Space-Code Sommerfeld und Thiel GbR
+# 👋 Welcome to Space-Code
 
 🚀 **Empowering Your Digital Presence**  
 We are a passionate digital marketing agency, helping businesses grow with tailored online solutions.
@@ -17,7 +17,7 @@ We are a passionate digital marketing agency, helping businesses grow with tailo
 ## 📬 Get in Touch
 📧 Email: kontakt@space-code.de  
 🌐 Website: [space-code.agency](https://space-code.de)  
-<!-- 💼 LinkedIn: [Space-Code Sommerfeld und Thiel GbR](https://linkedin.com/company/space-code-agency) -->
+<!-- 💼 LinkedIn: [Space-Code](https://linkedin.com/company/space-code-agency) -->
 
 ---
 🛸 *Transforming ideas into digital realities – one line of code at a time.*
